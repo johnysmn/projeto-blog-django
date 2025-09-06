@@ -17,7 +17,6 @@ media
 .idea/**/dictionaries
 .idea/**/shelf
 /data/
-
 # AWS User-specific
 .idea/**/aws.xml
 
