@@ -1,0 +1,32 @@
+.git/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+.env
+logs/
+media/  # If handled externally
+static/ # If handled externally
+.project
+.sass-cache
+.vagrant/
+__pycache__
+dist
+docs
+env
+logs
+stats
+Dockerfile
+__localcode/
+.DS_Store
+.idea/
+.vscode/
+.pyc
+.pyo
+.mo
+.db
+.css.map
+.egg-info
+.sql.gz
+.cache
